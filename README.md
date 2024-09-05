@@ -1,7 +1,5 @@
 
 
-The provided HTML code is for a responsive landing page built using HTML, CSS, and JavaScript. The page has the following sections:
-
 Header: Contains a navigation bar with a logo, menu items, and a toggle button for mobile devices.
 Hero Section: Features a main heading, info text, and two call-to-action buttons.
 Features Section: Displays three grid columns with icons, titles, and descriptions.
